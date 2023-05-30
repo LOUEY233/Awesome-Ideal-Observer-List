@@ -1,6 +1,6 @@
 # Awesome-Ideal-Observer-List
 
-This is a repository that contains the paper about Ideal Observer in medical imaging.
+This is a repository that contains the papers about Ideal Observer in medical imaging.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
